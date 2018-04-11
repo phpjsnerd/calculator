@@ -5,7 +5,8 @@ Focus on keeping the native math expression with all type of [Polish notations](
 Full-Supported the [JS's Math functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Math) with some extension functions.
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![build status](https://secure.travis-ci.org/dominhhai/calculator.svg)](http://travis-ci.org/dominhhai/calculator)
+[![build status](https://travis-ci.org/dominhhai/calculator.svg?branch=master)](http://travis-ci.org/phpjsnerd/calculator)
+[![GitHub license](https://img.shields.io/github/license/phpjsnerd/calculator.svg)](https://github.com/phpjsnerd/calculator/blob/master/LICENSE)
 
 # Show case
 ## infix
