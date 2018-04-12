@@ -6,6 +6,7 @@ Full-Supported the [JS's Math functions](https://developer.mozilla.org/en/docs/W
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![build status](https://travis-ci.org/dominhhai/calculator.svg?branch=master)](http://travis-ci.org/phpjsnerd/calculator)
+[![Coverage Status](https://coveralls.io/repos/github/phpjsnerd/calculator/badge.svg?branch=master)](https://coveralls.io/github/phpjsnerd/calculator?branch=master)
 [![GitHub license](https://img.shields.io/github/license/phpjsnerd/calculator.svg)](https://github.com/phpjsnerd/calculator/blob/master/LICENSE)
 
 # Show case
